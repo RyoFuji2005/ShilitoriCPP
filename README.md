@@ -1,2 +1,2 @@
-# ShilitoriCPP
-これはJavaScript製のしりとりプログラムです
+# <em>Shilitori (C++ version)</em>  
+これはC++のしりとりプログラムです。  
