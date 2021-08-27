@@ -1,0 +1,2 @@
+# ShilitoriCPP
+これはJavaScript製のしりとりプログラムです
